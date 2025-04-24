@@ -28,3 +28,4 @@ public abstract class Device {
     //  متد اطلاعات گرفتن از دستگاه ها
     public abstract String getInfo();
 }
+
