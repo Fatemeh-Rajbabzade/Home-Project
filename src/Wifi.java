@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+public class Wifi implements Protocol{
+    @Override
+    public void connect(){
 
-public class Wifi {
+    }
+
+    @Override
+    public String getProtocolType(){
+        return "Wifi";
+    }
 }
