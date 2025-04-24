@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface Protocol {
+    void connect();
+    String getProtocolType();
 }
