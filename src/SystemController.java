@@ -44,7 +44,7 @@ public class SystemController {
 
         return "invalid input";
     }
-]
+
 
     //list devices
     public String listDevices() {
