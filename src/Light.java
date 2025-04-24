@@ -17,7 +17,7 @@ public class Light extends Device {
 
     @Override
     public String getInfo(){
-        return name + " " + status + " " +brightness + "%" + protocol;
+        return name + " " + status + " " +brightness + "% " + protocol;
 
     }
 }
