@@ -17,6 +17,6 @@ public class Thermostat extends Device{
 
     @Override
     public String getInfo(){
-        return name + " " + status + " " + temperature +"C"  + protocol;
+        return name + " " + status + " " + temperature +"C "  + protocol;
     }
 }
